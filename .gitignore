@@ -36,3 +36,5 @@ secretfile
 # Build directories
 dist
 build
+# Ignore nodemon.json in backend folder
+backend/nodemon.json
